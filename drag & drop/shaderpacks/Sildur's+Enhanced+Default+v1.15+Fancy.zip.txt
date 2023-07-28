@@ -1,0 +1,6 @@
+#Fri Jul 28 16:14:08 CEST 2023
+MB_strength=0.008
+Distance_Blur=true
+Depth_of_Field=true
+Motionblur=true
+Crossprocess=true

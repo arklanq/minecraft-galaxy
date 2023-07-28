@@ -1,0 +1,10 @@
+{
+  "anArgbColor": 1079794780,
+  "aBoolean": true,
+  "aDouble": 0.56,
+  "anEnum": "NORMAL",
+  "aFloat": 1.3,
+  "aHexColor": 6788807,
+  "anInt": 42,
+  "aString": "Basic string value"
+}
