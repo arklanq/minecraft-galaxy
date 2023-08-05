@@ -119,7 +119,7 @@
       "keys": ""
     },
     "openGuiAreaSettings": {
-      "keys": "KP_MULTIPLY"
+      "keys": ""
     },
     "openGuiLoadedSchematics": {
       "keys": ""
@@ -131,7 +131,7 @@
       "keys": "M,L"
     },
     "openGuiPlacementSettings": {
-      "keys": "KP_SUBTRACT"
+      "keys": ""
     },
     "openGuiSchematicPlacements": {
       "keys": "M,P"
@@ -301,7 +301,7 @@
   },
   "InfoOverlays": {
     "blockInfoLinesEnabled": true,
-    "blockInfoOverlayEnabled": true,
+    "blockInfoOverlayEnabled": false,
     "infoOverlaysTargetFluids": false,
     "statusInfoHud": false,
     "statusInfoHudAuto": true,
@@ -328,7 +328,7 @@
     "verifierErrorHilightMaxPositions": 1000
   },
   "Visuals": {
-    "enableRendering": false,
+    "enableRendering": true,
     "enableSchematicRendering": true,
     "enableAreaSelectionBoxesRendering": true,
     "enablePlacementBoxesRendering": true,
