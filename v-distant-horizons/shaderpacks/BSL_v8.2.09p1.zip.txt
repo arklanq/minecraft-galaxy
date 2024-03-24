@@ -1,0 +1,8 @@
+#Sun Mar 24 15:13:03 CET 2024
+shadowDistance=128.0
+LIGHT_SHAFT=false
+SHADOW_FILTER=false
+shadowMapResolution=1024
+FOG_DENSITY_DH=0.50
+SHADOW_COLOR=false
+AO=false
