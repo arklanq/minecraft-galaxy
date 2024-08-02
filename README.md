@@ -35,6 +35,7 @@
 - [Fabric API](https://modrinth.com/mod/fabric-api)
 - [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)
 - [YetAnotherConfigLib](https://modrinth.com/mod/yacl)
+- [Boxlib](https://modrinth.com/mod/boxlib)
 - [Zoomify](https://modrinth.com/mod/zoomify)
 
 ## Lista resourcepacków
@@ -69,7 +70,6 @@
 
 - Pobierz instalator Iris z [oficjalnej strony](https://irisshaders.dev/download) ("DOWNLOAD UNIVERSAL JAR").
 - Uruchom instalator, zaznacz opcje:
-    - [x] `Use Distant Horizons beta version`.
     - [x] `Iris + Fabric`.
 - Dalej postępuj zgodnie z instrukcjami.
 
